@@ -1,0 +1,6 @@
+resources/
+report/
+.idea
+out/
+*.iml
+.lift/
